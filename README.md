@@ -19,15 +19,25 @@
    - Produk seperti **Labels**, yang menghasilkan revenue sangat kecil, perlu dikaji kelayakannya untuk dipertahankan.
 
 ---
-![image](https://github.com/user-attachments/assets/0b0c8a56-d907-4e00-b45d-88537f0dd9f1)
-![image](https://github.com/user-attachments/assets/983a40ba-abf8-4acf-b2ff-397a33566795)
-![image](https://github.com/user-attachments/assets/7c340328-9664-44bb-b8fa-1f1b96efdf7c)
 
+## 🖼️ Visualisasi
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0b0c8a56-d907-4e00-b45d-88537f0dd9f1" width="500" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/983a40ba-abf8-4acf-b2ff-397a33566795" width="500" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7c340328-9664-44bb-b8fa-1f1b96efdf7c" width="500" />
+</p>
+
+---
 
 ## 📌 Rekomendasi Bisnis
 
 - Tingkatkan promosi pada produk yang **tinggi revenue dan menguntungkan**.
 - Evaluasi dan optimalkan strategi **diskon** agar tidak merugikan.
 - Lakukan analisis lanjutan pada produk yang **kurang laku atau tidak menguntungkan** untuk efisiensi bisnis.
-
